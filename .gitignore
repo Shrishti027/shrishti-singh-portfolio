@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.output/
+.netlify/
+.wrangler/
+
+.env
+.env.*
+!.env.example
+
+*.log
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
